@@ -1,4 +1,6 @@
 # 🚀 Production-Ready React, Next.js & Shadcn UI Boilerplates (13-Kit Suite)
+> **🔥 Best Value — All-Access Developer Suite:**  
+> **[Get All 13 Production-Ready Boilerplates in One Bundle ($129 — Save $230+)](https://gichana5.gumroad.com/l/2complete-react-shadcn-saas-bundle)**
 
 A curated collection of modular, enterprise-grade **React, Next.js, TypeScript, Tailwind CSS, and Shadcn UI** starter components built to save developers dozens of hours of frontend and backend engineering.
 
