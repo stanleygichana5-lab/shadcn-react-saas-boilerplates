@@ -49,6 +49,7 @@ A curated collection of modular, enterprise-grade **React, Next.js, TypeScript, 
   Browser-based image processing studio supporting aspect-ratio cropping, lossless compression, and instant WebP conversion with zero server uploads.
 * **[Flawless HTML-to-PDF Print Invoice Component Boilerplate ($24)](https://gumroad.com)**  
   Pixel-accurate React & Tailwind invoice generator engineered for clean A4/Letter PDF printing and automated tax/total calculations.
+  nextjs-attack-surface-scanner and nextjs-aml-fraud-detector
 
 ---
 
